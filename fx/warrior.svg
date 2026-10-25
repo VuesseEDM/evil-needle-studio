@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 560"><defs>
+<filter id="g" x="-300%" y="-300%" width="700%" height="700%"><feGaussianBlur stdDeviation="3"/></filter>
+<linearGradient id="ed" x1="0" x2="1"><stop offset="0" stop-color="#4a5a92"/><stop offset=".35" stop-color="#0a0c14"/></linearGradient></defs>
+<g class="cape"><path d="M205 150 C300 168 330 300 300 470 L282 438 L270 505 L246 420 L232 468 C222 360 214 270 188 214Z" fill="#05060b" stroke="#25305a" stroke-width="1.5"/>
+<path d="M232 200 C262 280 270 360 262 430" fill="none" stroke="#1a2040" stroke-width="2"/><path d="M252 190 C290 270 300 360 292 440" fill="none" stroke="#1a2040" stroke-width="2"/></g>
+<g fill="#05060b" stroke="#2a3563" stroke-width="1.6" stroke-linejoin="round">
+<!-- legs -->
+<path d="M118 330 L112 470 L98 520 L92 540 L146 540 L150 520 L146 470 L152 330Z"/>
+<path d="M158 330 L164 470 L170 520 L168 540 L224 540 L214 518 L198 470 L194 330Z"/>
+<!-- tasset skirt -->
+<path d="M108 262 L212 262 L226 346 L194 336 L170 352 L146 336 L116 346 L96 346Z"/>
+<!-- torso -->
+<path d="M112 160 L208 160 L214 222 L200 268 L120 268 L106 222Z"/>
+<!-- pauldrons -->
+<path d="M112 152 C84 140 70 156 66 188 C80 176 96 178 112 190Z"/>
+<path d="M208 152 C236 140 250 156 254 188 C240 176 224 178 208 190Z"/>
+<path d="M78 148 L66 122 L90 140Z M242 148 L254 122 L230 140Z"/>
+<!-- arms to sword -->
+<path d="M72 186 C70 224 100 246 140 232 L150 214 L120 214 C104 214 96 200 98 184Z"/>
+<path d="M248 186 C250 224 220 246 180 232 L170 214 L200 214 C216 214 224 200 222 184Z"/>
+<!-- helmet -->
+<path d="M132 130 C128 96 192 96 188 130 L186 156 L134 156Z"/>
+<path d="M134 108 C108 100 86 80 80 40 C98 70 118 78 138 84Z"/>
+<path d="M186 108 C212 100 234 80 240 40 C222 70 202 78 182 84Z"/>
+<!-- sword -->
+<path d="M160 204 L172 204 L170 470 L160 548 L150 470 Z M110 204 H210 L222 192 L206 214 H114 L98 192Z"/>
+<rect x="154" y="150" width="12" height="56" rx="3"/><circle cx="160" cy="148" r="11"/>
+</g>
+<rect x="142" y="127" width="36" height="5" rx="2" fill="#ff3b3b" filter="url(#g)"/><rect x="144" y="128" width="32" height="3" rx="1" fill="#ff7b5a"/>
+<path d="M120 170 L152 270 M200 170 L168 270" stroke="#1b2243" stroke-width="2" fill="none"/>
+<path d="M126 340 L134 470 M200 340 L194 470" stroke="#1b2243" stroke-width="2" fill="none"/>
+</svg>
